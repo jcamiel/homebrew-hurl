@@ -2,7 +2,7 @@ class Hurl < Formula
   desc "Perform and tests HTTP session."
   homepage "https://hurl.dev"
   url "https://github.com/fabricereix/hurl/releases/download/0.99.10/hurl-0.99.10-x86_64-osx.tar.gz"
-  sha256 "f393ffa8c171da0f1486d5e45de9f4d30b92cc3db1d64360a1723d1071d2e6a7"
+  sha256 "4190148176470f941bc1c386485db7af165aeff04f8d719eaa8865e045b6e772"
 
 
   def install
