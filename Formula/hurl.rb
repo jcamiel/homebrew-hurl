@@ -1,8 +1,8 @@
 class Hurl < Formula
   desc "Run and Test HTTP Requests."
   homepage "https://hurl.dev"
-  url "https://github.com/Orange-OpenSource/hurl/releases/download/0.99.13/hurl-0.99.13-x86_64-osx.tar.gz"
-  sha256 "4b5299d236539e125b9e24c6792a452aabc33d55cfb20648766bbf5fdc92adff"
+  url "https://github.com/Orange-OpenSource/hurl/releases/download/0.99.14/hurl-0.99.14-x86_64-osx.tar.gz"
+  sha256 "5021317009c56cc920f7cfaeeeec96898d37f878553ce073dbb91f79078f421f"
 
 
   def install
